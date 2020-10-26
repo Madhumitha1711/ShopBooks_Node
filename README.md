@@ -22,10 +22,9 @@ This application allows users purchase books online
 
 2.Admin Page to add products
 ![Example screenshot](./screenshots/addProduct.png)
-![Example screenshot](./screenshots/adminProducts.png)
 
 3.Users shop page
-![Example screenshot](./screenshots/shopPage.png)
+![Example screenshot](./screenshots/adminProducts.png)
 
 4.Cart Page
 ![Example screenshot](./screenshots/cartPage.png)
