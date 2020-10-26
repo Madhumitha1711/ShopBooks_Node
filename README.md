@@ -45,9 +45,9 @@ This application allows users purchase books online
 
 ## Setup
 
-1.Clone project from github
-2.Run `npm install` to install all dependencies
-3.Run `npm start` to start the server and application runs on port 3000
+* Clone project from github
+* Run `npm install` to install all dependencies
+* Run `npm start` to start the server and application runs on port 3000
 
 
 ## Features
@@ -55,9 +55,9 @@ This application allows users purchase books online
 Features available for users,
 
 * Login Functionality 
-* Admin can add/edit books to online store
+* Admin can manage the online store
 * User can view book details
-* Users can add books to cart
+* User can add books to cart
 * User can place an order and view order details
 
 To-do list:
