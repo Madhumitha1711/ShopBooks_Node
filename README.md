@@ -13,7 +13,7 @@
 
 ## General info
 
-This application allows users purchase books online
+This application allows users to purchase books online
 
 ## Screenshots
 
